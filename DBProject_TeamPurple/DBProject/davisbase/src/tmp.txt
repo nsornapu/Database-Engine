@@ -1,0 +1,12 @@
+[0D,02,00,0D,00,00,00,00,00,16,00,0D,00,00,03,00,
+00,00,00,05,06,07,00,04,00,00,00,00,01,02,03,04]
+Exception in thread "main" java.lang.Exception: Assert Failure: 
+Left Val: 
+false
+Right Val: 
+true
+
+	at Test.equals(Test.java:29)
+	at Test.equals(Test.java:19)
+	at TedsTests.pageAddCellOverflowTest(TedsTests.java:53)
+	at TedsTests.main(TedsTests.java:30)
